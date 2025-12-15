@@ -7,6 +7,7 @@ readme = "README.md"
 license = "GPL-2.0"
 keywords = ["chat", "iced", "widget"]
 repository = "https://github.com/ege-adam/iced-chat-widget"
+description = "A customizable chat widget for the Iced GUI library."
 
 [dependencies]
 chrono = "0.4.42"
