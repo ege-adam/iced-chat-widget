@@ -3,6 +3,10 @@ name = "iced-chat-widget"
 version = "0.1.0"
 authors = ["egeadam"]
 edition = "2024"
+readme = "README.md"
+license = "GPL-2.0"
+keywords = ["chat", "iced", "widget"]
+repository = "https://github.com/ege-adam/iced-chat-widget"
 
 [dependencies]
 chrono = "0.4.42"
